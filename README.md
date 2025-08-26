@@ -52,6 +52,9 @@ This project monitors restaurants' uptime/downtime during business hours and gen
    PUT /stores/{id} → Update a store
    DELETE /stores/{id} → Delete a store
 
+🎥 Demo Video
+   Watch a quick demo of the project here: [Loom Recording](https://www.loom.com/share/b4e2aceaaa404ab39c294b0be0c17f41?sid=1dc5b8cd-3c85-4130-bc12-347d275ae6bf)   
+
 📂 Sample Output
 You can check a sample API response in CSV format here: [sample_output.csv](./sample_output.csv)
    
