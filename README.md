@@ -51,3 +51,9 @@ This project monitors restaurants' uptime/downtime during business hours and gen
    GET /stores/{id} → Get store by ID
    PUT /stores/{id} → Update a store
    DELETE /stores/{id} → Delete a store
+
+📂 Sample Output
+You can check a sample API response in CSV format here: [sample_output.csv](./sample_output.csv)
+   
+
+   
